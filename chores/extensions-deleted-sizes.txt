@@ -1,0 +1,12 @@
+=== Deleted extensions by reverse size ===
+Format: unpacked size, packed size, date deleted, extension name
+     3849271    3839751 2020-06-10 .mp4
+      759937     756054 2020-08-06 .gif
+      568278      54187 2020-08-25 .code-snippets
+        2695       1007 2020-08-04 .xml
+        1019        515 2020-09-02 .bak
+         694        468 2020-09-02 .js 
+         882        410 2020-09-22 .tmpl
+         458        231 2020-08-04 .iml
+         162        131 2020-06-10 .vtt
+           0          9 2020-09-02 .lcov
